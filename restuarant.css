@@ -1,0 +1,258 @@
+
+#nav-style1 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#nav-style2 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#nav-style3 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#nav-style4 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+.nav-image {
+    width: 80px;
+    height: 70px;
+}
+
+.banner-bg-image {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/foodmunch-banner-bg.png");
+    background-size: cover;
+    height: 100vh;
+}
+
+.banner-card-head {
+    color: white;
+    font-size: 45px;
+    font-family: "Roboto";
+    font-weight: 300;
+}
+
+.banner-card-para {
+    color: #f5f7fa;
+    font-size: 24px;
+    font-family: "Roboto";
+    font-weight: 300;
+}
+
+.banner-button1 {
+    height: 45px;
+    width: 130px;
+    background-color: #d0b200;
+    border-width: 0px;
+    border-radius: 8px;
+
+}
+
+.banner-button2 {
+    height: 45px;
+    width: 130px;
+    background-color: transparent;
+    border-width: 1px;
+    border-radius: 8px;
+    border-style: solid;
+    border-color: #d0b200;
+    color: #d0b200;
+    margin-left: 15px;
+}
+
+.why-choose-us {
+    background-color: #f9fbfe;
+
+}
+
+.why-head {
+    font-weight: 700;
+    font-family: "Roboto";
+    font-size: 28px;
+    color: #183b56;
+}
+
+.why-para {
+    font-size: 16px;
+    color: #5a7184;
+    font-family: "Roboto";
+}
+
+.why-card1 {
+    background-color: white;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 16px;
+    border-color: #efeaf4;
+
+}
+
+.card-image {
+    height: 90px;
+    width: 87px;
+}
+
+.card-head {
+    font-family: "Roboto";
+    font-weight: 500;
+    font-size: 22px;
+    color: #323f4b;
+}
+
+.card-para {
+    font-family: "Roboto";
+    font-size: 16px;
+    color: #7b8794;
+}
+
+.offers {
+    font-weight: 600;
+    font-style: italic;
+    color: #323f4b;
+}
+
+
+.explore-menu {
+    background-color: white;
+
+}
+
+.explore-head {
+    font-family: "Roboto";
+    font-weight: 700;
+    font-size: 28px;
+    color: #183b56;
+}
+
+.explore-card-bg {
+    border-radius: 16px;
+}
+
+.explore-card-image {
+    border-radius: 16px;
+    width: 290px;
+    height: 304px;
+}
+
+.card-head {
+    font-size: 18px;
+    font-family: "Roboto";
+    font-weight: 500;
+    color: #323f4b;
+    margin-top: 24px;
+}
+
+.card-link {
+    color: #d0b200;
+    font-family: "Roboto";
+    font-weight: 500;
+    font-size: 14px;
+}
+
+
+
+.healthy-food-section {
+    background-color: #f9fbfe;
+}
+
+.healthy-food-section-img {
+    width: 270px;
+}
+
+.healthy-food-section-heading {
+    font-family: "Roboto";
+    font-weight: 700;
+    font-size: 28px;
+    color: #183b56;
+}
+
+.healthy-food-section-description {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.custom-button {
+    width: 130px;
+    height: 45px;
+    color: white;
+    background-color: #d0b200;
+    border-width: 0;
+    border-radius: 8px;
+    margin-right: 10px;
+}
+
+.delivery-and-payment-section-img {
+    width: 270px;
+}
+
+.delivery-and-payment-section-heading {
+    font-family: "Roboto";
+    font-weight: 700;
+    font-size: 28px;
+    color: #183b56;
+}
+
+.delivery-and-payment-section-description {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.payment-card-img {
+    width: 50px;
+    height: 50px;
+    margin-right: 28px;
+}
+
+.thanking-customers-section {
+    background-color: #d0b2001a;
+}
+
+.thanking-customers-section-heading {
+    font-family: "Roboto";
+    font-weight: 700;
+    font-size: 28px;
+    color: #183b56;
+}
+
+.thanking-customers-section-description {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.thanking-customers-section-img {
+    width: 270px;
+    margin-bottom: 20px;
+}
+
+.follow-us-head{
+    font-family: "Roboto";
+  font-weight: 700;
+  font-size: 28px;
+  color: #183b56;
+  text-align: center;
+}
+.icon-style{
+    color:#d0b200;
+    font-size:35px;
+}
+.follow-us-icon-bg{
+    width:80px;
+    height:80px;
+    background-color:#f1f7e8;
+    border-radius:50px;
+    text-align:center;
+    
+    
+}
+.thanking-customers-model-title{
+   color:#d0b200;
+   font-weight:800;
+}
